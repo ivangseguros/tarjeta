@@ -1,0 +1,40 @@
+.color-tarjeta{
+/* background: #ADA996;
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); */
+
+background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #292E49, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-color: none;
+}
+
+.novedades i{
+  font-size: 35PX;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 20%;
+}
+.novedades0 i{
+  color: rgb(0, 27, 150);
+}
+.novedades1 i{
+  color: #25d366;
+}
+.novedades2 i{
+  color: #ea4335;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  padding: none;
+  margin: none;
+  font-display: none;
+  border-color: none;
+}
+style{
+  padding: none;
+  margin: none;
+  font-display: none;
+  border-color: none;
+  }
